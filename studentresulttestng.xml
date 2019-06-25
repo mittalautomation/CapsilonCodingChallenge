@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="StudentResultSuite">
+  <test name="StudentResultTest">
+    <classes>
+    
+    <class name="com.capsilon.qa.studentresulttestcases.PrintStudentFailTest"/>
+    <class name="com.capsilon.qa.studentresulttestcases.PrintSubjectHighestMarkTest"/>
+    <class name="com.capsilon.qa.studentresulttestcases.PrintTopperPhysicsTest"/>
+    <class name="com.capsilon.qa.studentresulttestcases.PrintStudentEqualMarksMathsTest"/>
+    
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

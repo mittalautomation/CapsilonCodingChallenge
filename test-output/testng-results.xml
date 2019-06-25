@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="491" started-at="2019-06-25T12:08:03Z" finished-at="2019-06-25T12:08:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="491" started-at="2019-06-25T12:08:03Z" finished-at="2019-06-25T12:08:04Z">
+      <class name="com.capsilon.qa.studentresulttestcases.PrintTopperPhysicsTest">
+        <test-method status="PASS" signature="topperInPhysics()[pri:0, instance:com.capsilon.qa.studentresulttestcases.PrintTopperPhysicsTest@675d3402]" name="topperInPhysics" duration-ms="23" started-at="2019-06-25T12:08:04Z" description="Question4.3 : Print the topper in Physics." finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topperInPhysics -->
+      </class> <!-- com.capsilon.qa.studentresulttestcases.PrintTopperPhysicsTest -->
+      <class name="com.capsilon.qa.studentresulttestcases.PrintSubjectHighestMarkTest">
+        <test-method status="PASS" signature="highestMarks()[pri:0, instance:com.capsilon.qa.studentresulttestcases.PrintSubjectHighestMarkTest@28feb3fa]" name="highestMarks" duration-ms="14" started-at="2019-06-25T12:08:04Z" description="Question4.2 : Print the subject having the highest marks for Sanket" finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestMarks -->
+      </class> <!-- com.capsilon.qa.studentresulttestcases.PrintSubjectHighestMarkTest -->
+      <class name="com.capsilon.qa.professionaltestcases.PrintStudentsFromPuneTest">
+        <test-method status="PASS" signature="countStudentsFromPune()[pri:0, instance:com.capsilon.qa.professionaltestcases.PrintStudentsFromPuneTest@482f8f11]" name="countStudentsFromPune" duration-ms="21" started-at="2019-06-25T12:08:04Z" description="Question3.1 : Read this file and print how many Students are from Pune. Also print their PINs" finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countStudentsFromPune -->
+      </class> <!-- com.capsilon.qa.professionaltestcases.PrintStudentsFromPuneTest -->
+      <class name="com.capsilon.qa.professionaltestcases.PrintCitiesOfSalesmenTest">
+        <test-method status="PASS" signature="printCitiesOfSaleman()[pri:0, instance:com.capsilon.qa.professionaltestcases.PrintCitiesOfSalesmenTest@1b604f19]" name="printCitiesOfSaleman" duration-ms="9" started-at="2019-06-25T12:08:04Z" description="Question3.2 : Print the cities of all Salesmen." finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printCitiesOfSaleman -->
+      </class> <!-- com.capsilon.qa.professionaltestcases.PrintCitiesOfSalesmenTest -->
+      <class name="com.capsilon.qa.professionaltestcases.PrintProfessionalsOfSolapurCityTest">
+        <test-method status="PASS" signature="professionalNamesOfSolapur()[pri:0, instance:com.capsilon.qa.professionaltestcases.PrintProfessionalsOfSolapurCityTest@1593948d]" name="professionalNamesOfSolapur" duration-ms="7" started-at="2019-06-25T12:08:04Z" description="Question3.3 : Print the professionals names having Solapur as their city" finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- professionalNamesOfSolapur -->
+      </class> <!-- com.capsilon.qa.professionaltestcases.PrintProfessionalsOfSolapurCityTest -->
+      <class name="com.capsilon.qa.studentresulttestcases.PrintStudentEqualMarksMathsTest">
+        <test-method status="PASS" signature="equalMarksInMaths()[pri:0, instance:com.capsilon.qa.studentresulttestcases.PrintStudentEqualMarksMathsTest@51565ec2]" name="equalMarksInMaths" duration-ms="18" started-at="2019-06-25T12:08:04Z" description="Question4.4 : Print the names of students who have equal marks in Maths" finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- equalMarksInMaths -->
+      </class> <!-- com.capsilon.qa.studentresulttestcases.PrintStudentEqualMarksMathsTest -->
+      <class name="com.capsilon.qa.studentresulttestcases.PrintStudentFailTest">
+        <test-method status="PASS" signature="failedStudents()[pri:0, instance:com.capsilon.qa.studentresulttestcases.PrintStudentFailTest@68be2bc2]" name="failedStudents" duration-ms="331" started-at="2019-06-25T12:08:03Z" description="Question4.1 : Read this file and print how many Students are from Failed. Also print their Names" finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedStudents -->
+      </class> <!-- com.capsilon.qa.studentresulttestcases.PrintStudentFailTest -->
+      <class name="com.capsilon.qa.professionaltestcases.PrintSalemenOfThaneCityTest">
+        <test-method status="PASS" signature="noOfSalesmanOfThane()[pri:0, instance:com.capsilon.qa.professionaltestcases.PrintSalemenOfThaneCityTest@7823a2f9]" name="noOfSalesmanOfThane" duration-ms="8" started-at="2019-06-25T12:08:04Z" description="Question3.4 : Print the number of salesman having Thane as their City" finished-at="2019-06-25T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noOfSalesmanOfThane -->
+      </class> <!-- com.capsilon.qa.professionaltestcases.PrintSalemenOfThaneCityTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
